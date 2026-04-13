@@ -66,7 +66,7 @@ npx skills add justypdev/mineswap-agent-skills
 
 ## Security
 
-- 8 security audit rounds completed (Jay Anon / SSSLLC)
+- 8 security audit rounds completed (Jay Anon)
 - Server-authoritative game state with HMAC integrity
 - On-chain NFT ownership verification on every session
 - PvP winners determined by server from game event logs
